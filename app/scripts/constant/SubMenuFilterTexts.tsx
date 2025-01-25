@@ -1,0 +1,11 @@
+export const RUNWAY_FILTER_TEXT: string = "Runways Filter";
+export const BUSINESS_GOAL_FILTER_TEXT: string = "Business Goal Filter";
+export const BUSINESS_UNIT_FILTER_TEXT: string = "Business Unit Filter";
+export const CURRENT_STATUS: string = "Current Status";
+export const PRODUCTS_FILTER_TEXT: string = "Products Filter";
+export const BUSINESS_LINE_FILTER_TEXT: string = "Business Line Filter";
+export const NO_RUNWAYS_ADDED_TEXT: string = "No Runways added";
+export const NO_PRODUCTS_ADDED_TEXT: string = "No Products added";
+export const NO_BUSINESS_GOALS_ADDED_TEXT: string = "No Business Goals added";
+export const NO_BUSINESS_LINES_ADDED_TEXT: string = "No Business Lines added";
+export const SHOW_OR_HIDE_ALL: string = "Show/Hide All";
